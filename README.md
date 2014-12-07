@@ -1,4 +1,4 @@
-Vanilla-Plugin-RemoveTag
+RemoveTag Vanilla Plugin
 ========================
 
 A plugin for Vanilla Forums 2.1.x software that allows desginated individual users to remove specific tags from discussions.
