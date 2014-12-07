@@ -9,6 +9,7 @@ The designated individual can view all such tagged posts in one place (using the
 The plugin can support as many designated individuals and tags as needed.
 
 Authored by: <a href="http://vanillaforums.org/profile/36251/peregrine">peregrine</a>
+
 Conceptualized and commissioned by: <a href="http://www.stevejenkins.com/">FerrariSteve / Steve Jenkins</a>
 
 This plugin was created by peregrine for a donation from FerrariSteve. Please support custom development of Vanilla plugins and applications by donating for plugins you use, and commissioning plugins you'd like to see!
